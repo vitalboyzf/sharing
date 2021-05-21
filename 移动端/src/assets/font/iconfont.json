@@ -1,0 +1,58 @@
+{
+  "id": "2527652",
+  "name": "sharing",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7844751",
+      "name": "写",
+      "font_class": "xie",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "14450678",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "18836384",
+      "name": "返 回",
+      "font_class": "fanhui-copy-copy",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "8582965",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "13867739",
+      "name": "首 页 ",
+      "font_class": "shouye",
+      "unicode": "e95c",
+      "unicode_decimal": 59740
+    },
+    {
+      "icon_id": "18045734",
+      "name": "个人中心 - 中",
+      "font_class": "gerenzhongxin-zhong",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "18988602",
+      "name": "娱乐",
+      "font_class": "c-shenghuo3",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}

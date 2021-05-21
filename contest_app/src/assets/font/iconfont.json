@@ -1,0 +1,23 @@
+{
+  "id": "2547579",
+  "name": "比赛",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17611877",
+      "name": "日期 期数",
+      "font_class": "riqiqishu",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "2401929",
+      "name": "访问",
+      "font_class": "fangwen",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
